@@ -88,6 +88,32 @@ The experiment revealed several important insights:
 
 4. **Model Comparison**: The experiment provides a clear comparison of the strengths and limitations of different Perplexity models, helping to identify which models are best suited for specific types of research and information retrieval tasks.
 
+## Data Visualizations
+
+The following visualizations provide a clear comparison of the models' performance across different metrics.
+
+### Citations Per Model
+
+#### All Tests Combined
+![Citations Per Model - All Tests](charts/citations_per_model_all.png)
+
+#### Data Research Prompt
+![Citations Per Model - Data Research Prompt](charts/citations_per_model_data-research.png)
+
+#### Time-Specific (Puerto Rico) Prompt
+![Citations Per Model - Time-Specific Prompt](charts/citations_per_model_puerto-rico-nye.png)
+
+### Word Count Per Model
+
+#### All Tests Combined
+![Word Count Per Model - All Tests](charts/word_count_per_model_all.png)
+
+#### Data Research Prompt
+![Word Count Per Model - Data Research Prompt](charts/word_count_per_model_data-research.png)
+
+#### Time-Specific (Puerto Rico) Prompt
+![Word Count Per Model - Time-Specific Prompt](charts/word_count_per_model_puerto-rico-nye.png)
+
 ## Repository Structure
 
 - `test-prompts/`: Contains the test prompts used in the experiment
