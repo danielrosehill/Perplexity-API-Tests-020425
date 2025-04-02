@@ -1,0 +1,1 @@
+Summarize the effectiveness of cognitive behavioral therapy (CBT) for treating generalized anxiety disorder in adults. Prioritize your summaries and citations from systematic reviews and meta-analyses published in the last 10 years. Please provide at least three distinct findings, each supported by a different systematic review.

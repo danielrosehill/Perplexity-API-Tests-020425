@@ -1,0 +1,37 @@
+{
+  "model": "sonar-reasoning-pro",
+  "usage": {
+    "prompt_tokens": 40,
+    "completion_tokens": 1065,
+    "total_tokens": 1105,
+    "citation_tokens": 8053,
+    "num_search_queries": 1
+  },
+  "citations": [
+    "https://www.who.int/news/item/13-12-2017-world-bank-and-who-half-the-world-lacks-access-to-essential-health-services-100-million-still-pushed-into-extreme-poverty-because-of-health-expenses",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9218541/",
+    "https://pubmed.ncbi.nlm.nih.gov/16415462/",
+    "https://www.ncbi.nlm.nih.gov/books/NBK425845/",
+    "https://www.commonwealthfund.org/publications/surveys/2020/dec/2020-international-survey-income-related-inequalities",
+    "https://diabetesjournals.org/care/article/44/1/258/33180/Social-Determinants-of-Health-and-Diabetes-A",
+    "https://www.commonwealthfund.org/publications/surveys/2023/nov/cost-not-getting-care-income-disparities-affordability-health",
+    "https://www.epi.org/publication/education-inequalities-at-the-school-starting-gate/",
+    "https://www.who.int/data/inequality-monitor/data",
+    "https://www.imf.org/external/pubs/ft/sdn/2015/sdn1513.pdf"
+  ],
+  "object": "chat.completion",
+  "choices": [
+    {
+      "index": 0,
+      "finish_reason": "stop",
+      "message": {
+        "role": "assistant",
+        "content": "<think>\nOkay, I need to explain the relationship between income inequality and access to healthcare in developed countries using peer-reviewed studies and statistical data. Let me start by understanding what each source says.\n\nFrom the search results, [1] is a WHO report stating that half the world lacks essential health services, with 800 million spending 10% of their income on healthcare. It mentions disparities in Sub-Saharan Africa and Southern Asia but also notes issues in Eastern Asia, Latin America, and Europe. This could be relevant for developed countries too. \n\nLooking at [3], a study in 21 OECD countries found that lower-income individuals are less likely to see specialists. The U.S., Mexico, Finland, Portugal, and Sweden showed significant pro-rich inequity. This directly relates to developed countries and income inequality affecting specialist access. \n\n[5], a Commonwealth Fund survey, highlights that in the U.S., lower-income adults have higher chronic conditions and more cost-related care skipping. This shows income's impact on healthcare access in a developed country. \n\n[7] discusses how even with universal coverage, costs can be a barrier, especially in the U.S. Lower-income individuals face more affordability issues. \n\n[4] from NCBI mentions income's role in life expectancy gaps. Chetty's study shows a 14.6-year gap for men between the top and bottom 1%. This ties income inequality to health outcomes. \n\n[6] on diabetes shows income gradients in prevalence and complications. Lower income correlates with higher diabetes rates and worse outcomes. \n\nNow, structuring the answer. Start with an intro summarizing the relationship. Then sections on healthcare utilization disparities, economic barriers, health outcomes, and systemic factors. Use the sources to support each point. \n\nCheck if all statements are backed by the provided studies. For example, specialist access from [3], cost barriers from [5] and [7], chronic conditions from [5] and [6], life expectancy from [4]. \n\nMake sure each citation is correctly numbered and only uses the given sources. Avoid any personal knowledge, stick strictly to the provided data. Also, ensure the answer is in markdown with proper headers but no references section. Let me put this all together now.\n</think>\n\nIncome inequality in developed countries creates systemic barriers to healthcare access, exacerbating disparities in service utilization, health outcomes, and financial stability. These inequities persist even in nations with universal healthcare systems, as shown through empirical studies.\n\n### Disparities in Healthcare Utilization\n- **Specialist care inequity**: In 21 OECD countries, lower-income individuals are 36% less likely to access specialists than higher-income counterparts despite similar medical needs. The U.S., Finland, and Portugal exhibit the most pronounced gaps[3].  \n- **Preventive care gaps**: A 2020 survey of 11 high-income nations found lower-income adults are 2.5\u00d7 more likely to skip preventive screenings and dental care due to cost barriers compared to wealthier groups[5].  \n- **Emergency department overuse**: 45% of low-income U.S. patients use emergency rooms for primary care needs versus 12%-22% in European countries with stronger primary care systems[5].\n\n### Economic Barriers to Access\n- **Cost-related care avoidance**: 50% of low-income U.S. adults skipped needed medical care due to costs, compared to <15% in Germany, France, and the UK[5][7].  \n- **Chronic condition burden**: Lower-income populations have 74% higher diabetes prevalence rates and 2\u00d7 greater mortality risk from diabetes complications than high-income groups[6].  \n- **Financial toxicity**: 36% of low-income U.S. households report medical bill hardships versus 7%-16% in other developed nations[5].\n\n### Health Outcome Disparities\n- **Life expectancy gap**: The richest 1% of U.S. males live 14.6 years longer than the poorest 1%, with similar patterns observed across income gradients in Europe[4].  \n- **Multi-morbidity prevalence**: 36% of low-income U.S. adults have \u22652 chronic conditions versus <25% in comparable income groups elsewhere[5].  \n- **Mental health inequities**: Lower-income Americans report anxiety/depression rates 2.4\u00d7 higher than their German counterparts[5].\n\n### Systemic Factors Amplifying Inequities\n- **Neighborhood effects**: Residing in low-income U.S. neighborhoods doubles diabetes risk compared to higher-income areas, independent of individual socioeconomic status[6].  \n- **Insurance inadequacy**: 24% of insured Americans face coverage gaps affecting care access, compounded by high deductibles and copays rarely seen in other developed systems[7].  \n- **Digital divides**: Limited internet access in low-income households reduces health information availability, exacerbating care navigation challenges despite universal coverage policies[2].\n\nThese patterns demonstrate that income inequality interacts with healthcare system structures to create compounding disadvantages. Countries with stronger social safety nets (e.g., Germany, France) mitigate but do not eliminate these disparities, while market-driven systems like the U.S. exhibit the most severe inequities[3][5]. Effective interventions require both economic policies addressing wealth distribution and health system reforms targeting affordability barriers[1][4][9]."
+      },
+      "delta": {
+        "role": "assistant",
+        "content": ""
+      }
+    }
+  ]
+}

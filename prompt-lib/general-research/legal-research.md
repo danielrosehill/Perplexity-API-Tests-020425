@@ -1,0 +1,1 @@
+Outline the legal rights and responsibilities of landlords regarding tenant evictions in the state of California. Cite specific sections of the California Civil Code or relevant court cases to support each point.

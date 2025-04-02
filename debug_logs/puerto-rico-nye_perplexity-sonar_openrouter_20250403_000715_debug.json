@@ -1,0 +1,38 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "On New Year's Eve, December 31, 2024, a massive power outage severely disrupted celebrations across Puerto Rico, leaving nearly 90% of the island's residents without electricity. Here are the details of what happened:\n\n### Cause of the Outage\nThe blackout was primarily caused by the **failure of an underground power line**, according to Luma Energy, the company responsible for Puerto Rico's electricity transmission and distribution[1][2][3]. This incident was not isolated but part of a broader context of chronic power outages and infrastructure issues.\n\n### Impact\n- **Number Affected**: Over 1.3 million customers lost power, which equates to about 90% of Luma's 1.47 million clients[1][2][3].\n- **Restoration Efforts**: Power was restored to about half of those affected within 24 hours, with the entire effort taking approximately two days to complete[1][3].\n- **Challenges**: The outage resulted in widespread disruptions, with many businesses, parks, and malls forced to close. Some essential services, like hospitals and the water and sewer company, had power restored sooner[3][4].\n\n### Background and Reactions\n- **Infrastructure Issues**: Puerto Rico's power grid has been in decline for years, exacerbated by a lack of maintenance and investment. The situation worsened significantly after **Hurricane Maria** in 2017, which severely damaged the grid[1][2][4].\n- **Recent Repairs**: Permanent repairs to the grid only began recently, with temporary fixes in place for many years. Residents continue to rely on aging generators provided by FEMA[2][4].\n- **Public and Government Response**: The blackout fueled anger against Luma Energy and Genera PR, with many calling for their ouster. Governor-elect Jenniffer Gonz\u00e1lez Col\u00f3n has threatened to revoke Luma's contract and proposed using more fossil fuels, suggesting that renewable energy targets are unrealistic[2][3][4].\n\nOverall, the New Year's Eve blackout highlighted the ongoing struggles with Puerto Rico's power infrastructure and the need for significant improvements to prevent future disruptions.",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": null,
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      },
+      "native_finish_reason": "stop"
+    }
+  ],
+  "model": "perplexity/sonar",
+  "object": "chat.completion",
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 431,
+    "prompt_tokens": 42,
+    "total_tokens": 473,
+    "completion_tokens_details": null,
+    "prompt_tokens_details": null
+  },
+  "provider": "Perplexity",
+  "citations": [
+    "https://emergencypreparednesspartnerships.com/how-90-of-puerto-rico-lost-power-on-new-years-eve/",
+    "https://san.com/cc/nearly-entire-island-of-puerto-rico-loses-power-in-new-years-eve-blackout/",
+    "https://www.voanews.com/a/nearly-all-of-puerto-rico-is-without-power-on-new-year-s-eve/7919758.html",
+    "https://www.fox5ny.com/news/puerto-rico-power-outage-new-years-eve",
+    "https://www.mprnews.org/story/2024/12/31/nearly-all-of-puerto-rico-is-without-power-on-new-years-eve"
+  ]
+}

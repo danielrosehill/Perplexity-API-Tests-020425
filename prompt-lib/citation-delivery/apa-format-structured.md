@@ -1,0 +1,1 @@
+Explain the impact of social media on political polarization, providing citations in APA format for each claim or argument made. Focus specifically on studies published in the last five years.

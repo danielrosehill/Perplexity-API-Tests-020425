@@ -1,0 +1,1 @@
+I heard that New Year's celebrations in Puerto Rico were severely disrupted on New Years Eve (December 31, 2024). What happened? Provide as many details as possible about the cause of the disruption.

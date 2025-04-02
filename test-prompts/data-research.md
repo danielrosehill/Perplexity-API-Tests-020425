@@ -1,0 +1,1 @@
+Explain the relationship between income inequality and access to healthcare in developed countries. Support each statement with citations to peer-reviewed studies containing relevant statistical data. Your explanation must be based solely on empirically verifiable data.

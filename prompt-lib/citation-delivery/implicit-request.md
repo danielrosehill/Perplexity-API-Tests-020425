@@ -1,0 +1,1 @@
+Discuss the key factors contributing to the success of the green revolution in India, giving specific examples.
